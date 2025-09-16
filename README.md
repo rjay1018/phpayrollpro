@@ -1,5 +1,10 @@
-# Firebase Studio
+# PayrollExcel PH
 
-This is a NextJS starter in Firebase Studio.
+Secure Philippine payroll processing via Excel upload.
 
-To get started, take a look at src/app/page.tsx.
+## 🚀 Quick Start (Development)
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/your-repo/payrollexcel-ph.git
+   cd payrollexcel-ph
